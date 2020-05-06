@@ -1,0 +1,138 @@
+header {
+    text-align: center;
+    color: #6b5acd;
+    text-decoration: underline;
+}
+
+.std-form {
+    background: #6b5acd;
+    padding: 20px 0 20px 20px;
+    border: 2px solid #473f8c;
+    margin: 40px 30px;
+}
+
+form label {
+    color: #fff;
+}
+
+form p {
+    color: #fff;
+    display: inline;
+}
+
+form td {
+    background: #fff;
+    padding: 3px 12px;
+}
+
+table#qua th {
+    color: #fff;
+    text-align: justify;
+    padding: 1px 2px;
+}
+
+table#qua {
+    display: inline;
+}
+
+td#text {
+    background: transparent;
+    color: #fff;
+}
+
+input {
+    padding: 3px 0 3px 10px;
+}
+
+.btns {
+    text-align: center;
+}
+
+a.button {
+    border-radius: 3px 4px 4px 4px;
+    text-decoration: none;
+}
+
+
+label[for=male], label[for=female],label[for=draw] ,
+label[for=sing] ,label[for=danc] ,label[for=ske] ,label[for=oth] ,label[for=caf]  {
+    display: initial;
+}
+
+
+form label {
+    display: inline-block;
+    width: 200px;
+    margin-bottom: 15px;
+}
+
+label[for=others] {
+    text-align: right;
+    margin-left: 45px;
+}
+
+.button{
+    -webkit-appearance: button;
+    -webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: buttontext;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+    cursor: default;
+    background-color: buttonface;
+    box-sizing: border-box;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: buttonface;
+    border-image: initial;
+}
+
+
+table#qua th {
+    text-align: center;
+}
+
+tr{
+    border-spacing:0 15px;
+    border-collapse:separate;
+}
+
+tr td:first-child {
+    background: transparent;
+    color: #fff;
+}
+
+/* Acknowledgement page's css */
+
+.sec {
+    text-align: center;
+    padding: 100px 0;
+}
+
+.sec img {
+    width: 170px;
+}
+
+.sec h2 {
+    color: #069000;
+    font-size: 40px;
+}
+
+.sec h4 {
+    color: #7d07ab;
+    font-size: 25px;
+}
+
+.sec a {
+    color: #520c93;
+    font-size: 40px;
+}
